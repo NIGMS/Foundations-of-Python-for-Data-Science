@@ -162,6 +162,14 @@ A repository (A "repo") is like a folder where you store your research data and 
 5. Check “Initialize this repository with a README” (important for documenting your dataset). This is the appropriate spot to include summary information about this particular repository's purpose
 6. Click Create Repository.
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=6jxVqGyXLb4&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=45">
+            <img src="../images/CreatingandPopulatingNewRepo.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 5", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
 Now, you have a version-controlled folder on your computer where you can store and track your research data.
 
 ## Step 4: Adding Data Files to GitHub Desktop
