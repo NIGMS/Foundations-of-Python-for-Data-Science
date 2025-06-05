@@ -106,6 +106,14 @@ Now that we understand why research labs need version control, let's set up Git 
 
 Before you can start using GitHub for your materials, you need to create an account. GitHub is a platform that allows you to store, share, and collaborate on code. It is widely used by developers, students, and organizations for managing software projects using Git, a version control system that tracks changes in your code.
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=-xRTFjgiBKw&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=30">
+            <img src="../images/WhatIsGitHub.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 3", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
 To get started, you need to sign up for a free GitHub account. This will give you access to your own profile, repositories, and collaboration tools. Follow the steps below to create your GitHub account.
 
 - Go to GitHub's website
