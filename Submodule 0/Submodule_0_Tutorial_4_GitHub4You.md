@@ -53,6 +53,15 @@ The key word: *AUTOMATICALLY* though we'll not get to THAT until the next tutori
 
 Version control tools like Git provide a structured way to track, manage, and document changes to data over time, ensuring that every update, correction, or modification is properly recorded.
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=SRMrrrGfMN8&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=31">
+            <img src="../images/VersionControl.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 2", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
+
 ### Why Version Control for Research Data?
 <br>1️⃣ Ensuring Data Integrity Over Time
 <br>
