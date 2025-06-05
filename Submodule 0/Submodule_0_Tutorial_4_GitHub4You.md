@@ -12,6 +12,15 @@ Git is a powerful version control tool that helps track changes to your data fil
     <span> Click above image to watch introductory video </span>
 </p>
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=IlOxDz45Hz0&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=39">
+            <img src="../images/InstallGit.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 12", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
+
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Define FAIR data practices
@@ -106,13 +115,6 @@ Now that we understand why research labs need version control, let's set up Git 
 
 Before you can start using GitHub for your materials, you need to create an account. GitHub is a platform that allows you to store, share, and collaborate on code. It is widely used by developers, students, and organizations for managing software projects using Git, a version control system that tracks changes in your code.
 
-<p align="center">
-        <a href="https://www.youtube.com/watch?v=-xRTFjgiBKw&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=30">
-            <img src="../images/WhatIsGitHub.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 3", width="550"/>
-        </a>
-    <br>
-    <span> Click above image to watch introductory video </span>
-</p>
 
 To get started, you need to sign up for a free GitHub account. This will give you access to your own profile, repositories, and collaboration tools. Follow the steps below to create your GitHub account.
 
@@ -170,10 +172,26 @@ A repository (A "repo") is like a folder where you store your research data and 
     <span> Click above image to watch introductory video </span>
 </p>
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=6jxVqGyXLb4&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=45">
+            <img src="../images/CreatingandPopulatingNewRepoExample.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 10", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
 Now, you have a version-controlled folder on your computer where you can store and track your research data.
 
 ## Step 4: Adding Data Files to GitHub Desktop
 Once your repository is set up, you can start adding data files like Excel, CSV, or JSON datasets. 
+
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=U88RuYzclvQ&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=43">
+            <img src="../images/DesktopTutorialRepo.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 9", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
 
 ### Instructions:
 1. Open your repository folder *on your computer.*
@@ -215,5 +233,41 @@ Now, every protocol update is documented and timestamped, ensuring full transpar
 
 ## Managing a lab group using the same git repository
 It is rather unlikely that ONLY one person would be the involved in collecting all of the data for a research lab. In order to control and protect overwriting, Git provides clear management tools. That is covered in the next tutorial.
+
+### Additional Resources:
+
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=sBXo6IYMe88&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=32">
+            <img src="../images/UsingGitwithGitHub.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 13", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=SLQQB8omUP8&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=35">
+            <img src="../images/GenerateGitHubAcctToken.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 14", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=DNNKjt5aqbk&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=40">
+            <img src="../images/DeleteRepoGitHub.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 15", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=xunkadSUs90&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=41">
+            <img src="../images/DeleteLocalRepoDesktop.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 16", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
+
 
 Go to the [next tutorial](Submodule_0_Tutorial_5_ManagingGit.md)
