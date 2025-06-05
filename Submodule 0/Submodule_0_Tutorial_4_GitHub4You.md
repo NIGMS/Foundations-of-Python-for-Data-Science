@@ -6,7 +6,7 @@ Git is a powerful version control tool that helps track changes to your data fil
 
 <p align="center">
         <a href="https://www.youtube.com/watch?v=JgafvlC0_L8&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=37">
-            <img src="images/GitIntro.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 1", width="550"/>
+            <img src="../images/GitIntro.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 1", width="550"/>
         </a>
     <br>
     <span> Click above image to watch introductory video </span>
