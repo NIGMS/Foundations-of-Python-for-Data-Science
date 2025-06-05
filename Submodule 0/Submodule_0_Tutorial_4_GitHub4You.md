@@ -141,6 +141,13 @@ Before tracking your data, you need to install GitHub Desktop, a user-friendly a
 2. Install GitHub Desktop and sign in with your GitHub account.
 3. Set up your GitHub profile with your name and email (important for tracking contributions) from the account you set up in step 1.
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=2FaMfNerGsM&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=42">
+            <img src="../images/GitHubDesktopInstall.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 5", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
 
 ## Step 3: Creating a Repository for Your Research Data
 A repository (A "repo") is like a folder where you store your research data and track changes over time.
