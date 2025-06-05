@@ -122,6 +122,15 @@ To get started, you need to sign up for a free GitHub account. This will give yo
 - Click Create an account and follow the instructions.
 - GitHub will send a verification email. Click the link in the email to verify your account.
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=2W8t4YTcLM4&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=44">
+            <img src="../images/CreateGitHubAccount.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 4", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
+
 ## Step 2: Setting Up a GitHub Account & Installing GitHub Desktop
 
 Before tracking your data, you need to install GitHub Desktop, a user-friendly application that simplifies version control without needing command-line commands.
