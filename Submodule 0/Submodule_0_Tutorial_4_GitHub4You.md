@@ -4,6 +4,12 @@
 ## Overview
 Git is a powerful version control tool that helps track changes to your data files over time. While Git is traditionally used for computer code, it can be just as effective for managing structured data by recording each change, allowing you to compare versions and collaborate efficiently. 
 
+<iframe width="550"
+src="https://www.youtube.com/watch?v=JgafvlC0_L8&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=37" >
+</iframe> 
+
+
+
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Define FAIR data practices
