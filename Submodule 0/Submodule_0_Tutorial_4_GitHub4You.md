@@ -4,11 +4,14 @@
 ## Overview
 Git is a powerful version control tool that helps track changes to your data files over time. While Git is traditionally used for computer code, it can be just as effective for managing structured data by recording each change, allowing you to compare versions and collaborate efficiently. 
 
-<iframe width="550" height="315"
-src="https://www.youtube.com/watch?v=JgafvlC0_L8&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=37">
-</iframe> 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=JgafvlC0_L8&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=37">
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
 
-
+# <img src="images/UNMC_overview_video_1_thumbnail.jpeg" alt="NIH/NIGMS Sandbox Chromatin Occupancy Video 1", width="550"/>
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
