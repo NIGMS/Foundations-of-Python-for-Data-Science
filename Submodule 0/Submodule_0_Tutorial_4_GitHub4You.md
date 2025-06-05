@@ -33,8 +33,6 @@ By the end of this lesson, you will be able to:
 ## Prerequisites
 None
 
--------------------------------------------
-
 # FAIR Data principles
 
 You may already have seen that the NIH requires researchers to share their data in ways that make it FAIR to maximize its value. Ensuring data is well-documented, openly available, and in standardized formats not only enhances transparency and collaboration but also aligns with NIH’s commitment to advancing scientific discovery.
@@ -119,9 +117,9 @@ Before you can start using GitHub for your materials, you need to create an acco
 To get started, you need to sign up for a free GitHub account. This will give you access to your own profile, repositories, and collaboration tools. Follow the steps below to create your GitHub account.
 
 - Go to GitHub's website
-- Click on Sign up in the top-right corner.
+- Click on 'Sign up' in the top-right corner.
 - Enter your email address, username, and password.
-- Click Create an account and follow the instructions.
+- Click 'Create an account' and follow the instructions.
 - GitHub will send a verification email. Click the link in the email to verify your account.
 
 <p align="center">
@@ -156,12 +154,11 @@ A repository (A "repo") is like a folder where you store your research data and 
 
 ### Instructions
 1. Open GitHub Desktop and click “File” → “New Repository”.
-
 ![NewRepository](./images/github_new_repository.png)
 2. Give your repository a name (e.g., "Climate_Data_Study_2024").
 3. Choose a location **on your computer** where the repository will be stored.
-4. Select Private (if you are using it for your lab group). You can name "collaborators" later (students, postdocs, etc)
-5. Check “Initialize this repository with a README” (important for documenting your dataset). This is the appropriate spot to include summary information about this particular repository's purpose
+4. Select 'Private' (if you are using it for your lab group). You can name **collaborators** later (students, postdocs, etc).
+5. Check “Initialize this repository with a README” (important for documenting your dataset). This is the appropriate spot to include summary information about this particular repository's purpose.
 6. Click Create Repository.
 
 <p align="center">
@@ -201,8 +198,8 @@ Once your repository is set up, you can start adding data files like Excel, CSV,
 
 ![CommitMessage](./images/commit_msg.png)
 
-5. Click the bottom "Commit to _____" button (this saves the version to your local repository).
-6. Click Push to Origin (this uploads your data to GitHub.com).
+5. Click the bottom 'Commit to _____' button (this saves the version to your local repository).
+6. Click 'Push to Origin' (this uploads your data to GitHub.com).
 ![PushImage](./images/push_origin.png)
 
 
@@ -227,7 +224,7 @@ Using GitHub Desktop, you can track protocol changes alongside your datasets.
 2. Edit or add a new protocol document (e.g., data_collection_protocol_v2.docx).
 3. Open GitHub Desktop, and you’ll see the updated file.
 4. Write a commit message (e.g., "Updated protocol to include new sensor calibration process") as above for data
-5. Click Commit to main, then Push to Origin.
+5. Click 'Commit' to main, then 'Push to Origin'.
 
 Now, every protocol update is documented and timestamped, ensuring full transparency.
 
