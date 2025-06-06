@@ -1,7 +1,6 @@
 # Introduction to Python for Bioinformatics
 ---------------------------------------------------
 ![anchor](images/id-anchor-graphic.png)
-<img src="https://nnu.edu/wp-content/uploads/2024/09/Regular-Stacked.png" alt="Logo of NNU" width="150">
 
 ## **Contents**
 
