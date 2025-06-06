@@ -4,8 +4,7 @@
 
 ## **Contents**
 
-- [Practical Data-Centric Python for Biomedical Researchers](#practical-data-centric-aiml-for-biomedical-researchers)
-	- [**Contents**](#contents)
+- Practical Data-Centric Python for Biomedical Researchers
 	- [**Overview**](#overview)
 	- [**Background**](#background)
 	- [**Before Starting**](#before-starting)
@@ -20,13 +19,13 @@
 ## **Overview**
 The module prioritizes practical coding techniques for biological scientists who have limited or no background in programming in Python or other languages. The module also utilizes a blend of short instructional videos, interactive demonstrations, and hands-on exercises to facilitate self-directed learning and knowledge retention.
 
-Module 0 provides the background information you need to create a Cloud Computing account at Azure, to copy the needed tutorials from Github (where they are stored), and how to use Github for your data storage needs.
+Submodule 0 provides the background information you need to create a Cloud Computing account at Azure, to copy the needed tutorials from Github (where they are stored), and how to use Github for your data storage needs.
 
-Module 1 is a set of foundational tutorials in Python
+Submodule 1 is a set of foundational tutorials in Python
 
-Module 2 expands the Python toolbox to NumPy & Pandas (great data handling tools), graphing libraries and statistics for bioinformatics. 
+Submodule 2 expands the Python toolbox to NumPy & Pandas (great data handling tools), graphing libraries and statistics for bioinformatics. 
 
-Module 3 tutorials show how to save and edit Python scripts to extend your programming outside of Jupyter notebooks for reproducibly running programming tasks.
+Submodule 3 tutorials show how to save and edit Python scripts to extend your programming outside of Jupyter notebooks for reproducibly running programming tasks.
 
 ## **Background**
 
@@ -45,10 +44,7 @@ This *Introduction to Python* course, even if you work very slowly, should cost 
 
 You can view the information in Module 0 in your browser by clicking on the Github folder (above) for Submodule 0. It provides instructions on how to set up a cloud account to use this, and other, tutorials. 
 
-Additional information on how to [create an Azure account](https://github.com/NIGMS/NIGMS-Sandbox/blob/main/docs/HowToCreateAzureMLNotebooks.md) is provided by the NIGMS in abbreviated form for those with a subscription to Azure.
-
-* Video directions can be viewed at [Learning Modules for Cloud-Based Biomedial Research.](https://www.youtube.com/playlist?list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b)
-
+Additional information on how to [create an Azure computing instance](https://github.com/NIGMS/NIGMS-Sandbox/blob/main/docs/HowToCreateAzureMLNotebooks.md) is provided by NIGMS in abbreviated form for those with a subscription to Azure.
 
 ## **Software Requirements**
 * If you use the cloud, **you do not need any additional software**.
@@ -73,23 +69,26 @@ Each module includes at least one guided 'project' that allows you to practice y
 Data will be obtained from online databases (e.g., NCBI) or will be in folders in the submodule. You will learn to use the Python tools that can read large data sets without needing to download them to your computer hard drive.
 
 ## **Module Outline**
-**Module 0 - Intro to Cloud Computing and Git**
-- Lecture (upcoming)
 
-- Tutorial 1: Github Download   *how to get the tutorials*
-- Tutorial 2: Jupyter Notebooks  *how to navigate these tutorials*
-- Tutorial 3: AzureML  *how to start using a cloud computer*
-- Tutorial 3b: AzureML *CloudLab details*
-- Tutorial 4: GitHub 4 You *how Git and Github can be useful for you as a bioinformatician*
-- Tutorial 5: Managing Git *how to manage your Github repositories for multiple users*  
-- Tutorial 6: Digital Object Identifiers for GitHub *Creating citable identifiers for your data at Zenodo*
+**Submodule 0 - Intro to Cloud Computing and Git**
+
+Learn about how to use Cloud computing and Git
+
+- Lecture (upcoming)
+- Tutorials
+  - Tutorial 1: Github Download   *how to get the tutorials*
+  - Tutorial 2: Jupyter Notebooks  *how to navigate these tutorials*
+  - Tutorial 3: AzureML  *how to start using a cloud computer*
+  - Tutorial 3b: AzureML *CloudLab details*
+  - Tutorial 4: GitHub 4 You *how Git and Github can be useful for you as a bioinformatician*
+  - Tutorial 5: Managing Git *how to manage your Github repositories for multiple users*  
+  - Tutorial 6: Digital Object Identifiers for GitHub *Creating citable identifiers for your data at Zenodo*
   
 **Submodule 1 - Foundations of Python**
 
 Learn core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
 
 - Lecture (upcoming)
-  - 
 - Tutorials
   - Tutorial 1: Python Overview
   - Tutorial 2: Variables
@@ -104,20 +103,21 @@ Learn core concepts, diverse applications, introductory algorithms, ethical cons
 Learn Data Science with NumPy and Pandas
 
 - Lecture
-  - 
 - Tutorials
   - Tutorial 0: Overview
   - Tutorial 1: NumPy
   - Tutorial 2: Pandas
      - Tutorial 2a: Pandas PDB Exercise
      - Tutorial 2b: Pandas RNA-seq Guided Excercise
-  - Tutorial 3:Visualizing Data
+  - Tutorial 3: Visualizing Data
   - Tutorial 4: Inferential Statistics
 - Project
   - Tutorial 6a Using data
   - Tutorial 6bProject with solutions
 
-**Submodule 3 - **
+**Submodule 3 - Object Oriented Programming**
+
+Learn the basics of Object Oriented Programming (OOP)
 
 - Tutorial 0: Overview of OOP
 - Tutorial 1: Introduction to Python OOP
@@ -126,8 +126,8 @@ Learn Data Science with NumPy and Pandas
 
 
 ## **Funding**
-The creation of this training module was supported by the National Institute Of General Medical Sciences of the National Institutes of Health under Award Number *******. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of any of the funding agencies.
+The creation of this training module was supported by the National Institute Of General Medical Sciences of the National Institutes of Health. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of any of the funding agencies.
 
 ## **License for Data**
-Text and materials are licensed under a Creative Commons. The [license]([license](https://github.com/drchase55/NNU_nih_python_jrc/blob/Intro_to_Python_Modules/LICENSE) allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it.
+Text and materials are licensed under a Creative Commons. The [license](https://github.com/drchase55/NNU_nih_python_jrc/blob/Intro_to_Python_Modules/LICENSE) allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it.
 
