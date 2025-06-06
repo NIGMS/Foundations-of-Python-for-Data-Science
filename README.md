@@ -1,5 +1,6 @@
 # Introduction to Python for Bioinformatics
 ---------------------------------------------------
+![anchor](images/id-anchor-graphic.png)
 <img src="https://nnu.edu/wp-content/uploads/2024/09/Regular-Stacked.png" alt="Logo of NNU" width="150">
 
 ## **Contents**
@@ -68,6 +69,8 @@ This course is arranged into 4 sub-modules (0 through 3).
 Within each submodule, there are several tutorials (basically, topics) with embedded quizzes. They are numbered to make it easy to know the flow of the topics. Each tutorial ends with a link to the next tutorial, or a link to the guided, summative project.
 
 Each module includes at least one guided 'project' that allows you to practice your skills with a coding exercise you might later need to do with your own data or problem.
+
+![archdiagram](images/Foundations_of_Python_Idaho_INBRE_Azure.svg)
 
 ## **Data**
 Data will be obtained from online databases (e.g., NCBI) or will be in folders in the submodule. You will learn to use the Python tools that can read large data sets without needing to download them to your computer hard drive.
