@@ -19,6 +19,14 @@ Please complete tutorial 4 before tutorial 5.
 ## Why use Git for your research lab team *DATA?*
 In a research lab environment, managing data properly is just as important as collecting it. Labs often deal with long-term datasets, changing protocols, and *multiple* contributors, which can lead to data integrity issues if not properly managed.
 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=w0kEpFDl75c&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=36">
+            <img src="../images/TourofGit.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 11", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
 🧪 GitHub Repo Management Guide for Science Lab PIs
 
 🎯 Goal:
@@ -73,6 +81,15 @@ Click “Add rule”.
 In Branch name pattern, type:
 
 main      (or master, depending on your repo)
+
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=l-CzbtBzy_0&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=40">
+            <img src="../images/TypicalCollabProcess.png" alt="NIH/NIGMS Sandbox Foundations of Python Video 8", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch introductory video </span>
+</p>
+
 
 **Check the following boxes:**
 

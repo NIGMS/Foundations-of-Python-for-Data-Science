@@ -47,7 +47,7 @@ You can view the information in Module 0 in your browser by clicking on the Gith
 
 Additional information on how to [create an Azure account](https://github.com/NIGMS/NIGMS-Sandbox/blob/main/docs/HowToCreateAzureMLNotebooks.md) is provided by the NIGMS in abbreviated form for those with a subscription to Azure.
 
-* Video directions can be viewed at ____________
+* Video directions can be viewed at [Learning Modules for Cloud-Based Biomedial Research.](https://www.youtube.com/playlist?list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b)
 
 
 ## **Software Requirements**
@@ -74,7 +74,7 @@ Data will be obtained from online databases (e.g., NCBI) or will be in folders i
 
 ## **Module Outline**
 **Module 0 - Intro to Cloud Computing and Git**
-- Lecture (coming)
+- Lecture (upcoming)
 
 - Tutorial 1: Github Download   *how to get the tutorials*
 - Tutorial 2: Jupyter Notebooks  *how to navigate these tutorials*
@@ -88,7 +88,7 @@ Data will be obtained from online databases (e.g., NCBI) or will be in folders i
 
 Learn core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
 
-- Lecture (coming)
+- Lecture (upcoming)
   - 
 - Tutorials
   - Tutorial 1: Python Overview
