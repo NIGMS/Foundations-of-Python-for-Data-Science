@@ -1,6 +1,9 @@
 # Introduction to Python for Bioinformatics
 ---------------------------------------------------
-![anchor](images/id-anchor-graphic.png)
+<p align="center">
+    <img src="images/id-anchor-graphic.png" width="400" />
+</p>
+
 
 ## **Contents**
 
