@@ -4,7 +4,7 @@
 This tutorial helps research PIs and project leads set up GitHub to manage lab data with clarity and control. You'll learn how to protect the main branch, require review of changes, and maintain traceability across your team’s contributions.
 
 ## Learning Objectives
-In this tutorial, you will strengthen your abilities to:
+In this tutorial, you will strengthen your ability to:
 - Explain the risks of uncontrolled data changes in research labs
 - Define key GitHub terms like commits, branches, pull requests, and main
 - Set up branch protection to safeguard official data and protocols
@@ -13,7 +13,7 @@ In this tutorial, you will strengthen your abilities to:
 - Apply Git/GitHub tools to support data integrity and FAIR principles
 
 ## Prerequisites
-Please complete tutorial 4 before tutorial 5.
+Please complete Tutorial 4 before Tutorial 5.
 
 --------------------------------------------------------------
 ## Why use Git for your research lab team *DATA?*
@@ -105,7 +105,7 @@ main      (or master, depending on your repo)
 ✅ Restrict who can push to matching branches
 (You can list yourself or other senior members who are allowed to approve changes)
 
-Click Create or Save changes.
+Click 'Create' or 'Save' changes.
 
 👥 What This Looks Like for Your Collaborators
 Now, your students and research assistants won’t be able to push changes directly to the official version. Instead, they will:
@@ -133,7 +133,7 @@ As the lab PI, you now have:
 
 ## Conclusion
 
-You should now be able to use Github and the underlying tool of Git to keep track of and protect your data. However, it is not yet FAIR data because you need a fixed identifier for a set of data (even if you later update it) to inlcude with your journal articles. 
+You should now be able to use Github and the underlying tool of Git to keep track of and protect your data. However, it is not yet FAIR data because you need a fixed identifier for a set of data (even if you later update it) to include with your journal articles. 
 
 For that information, view the [last tutorial on Git](Submodule_0_Tutorial_6_DOI.md) in this submodule.
 
